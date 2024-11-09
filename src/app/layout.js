@@ -1,3 +1,5 @@
+"use client";
+// Any other imports and configuration here
 import './globals.css'
 
 export const metadata = {
